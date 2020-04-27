@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 * Get results in the console
 
 ### Build parameters
-  * baseUrl - YouYrack URL (https://testtimofei.myjetbrains.com/youtrack/)
+  * baseUrl - YouTrack URL (https://testtimofei.myjetbrains.com/youtrack/)
   * projectId - Project Id in YouTrack (0-0)
   * token - Permanent authorization token (perm:blabla==.BLABLA==.blablablablablablablabla)
 
